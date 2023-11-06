@@ -4,15 +4,15 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 # Data Lab
 
-![Default Home View](./public/dashboard.png?raw=true "Title")
+![Default Home View](./public/ss/dashboard.png?raw=true "Title")
 
 #
 
-![Default Home View](./assets/issues.png?raw=true "Title")
+![Default Home View](./public/ss/issues.png?raw=true "Title")
 
 #
 
-![Default Home View](./assets/detail.png?raw=true "Title")
+![Default Home View](./public/ss/detail.png?raw=true "Title")
 
 ## Getting Started
 
